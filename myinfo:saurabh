@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.city {
+  background-color: red;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="city">
+<h2>india</h2>
+<p>i love my india.</p>
+</div> 
+
+<div class="city">
+<h2>uatter pradesh</h2>
+<p>i am from uatter pradesh.</p>
+</div>
+
+<div class="city">
+<h2> jaunpur</h2>
+<p>i live in jaunpur.</p>
+</div>
+
+</body>
+</html>
+
